@@ -4,9 +4,10 @@ import binascii
 import winsound
 import os
 
-x=str(input("enter une chaine de caractere"))
+x=str(input("enter une chain de caractere"))
 
 #define parameters of files to create
+#comment to see difference
 nbCanal = 1   
 nbOctet = 2    
 fech = 44100
